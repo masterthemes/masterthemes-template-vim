@@ -1,0 +1,17 @@
+{
+    "name": "masterthemes-template-vim",
+    "version": "0.0.1",
+    "description": "A MasterThemes application template for Vim and Neovim",
+    "repository": "github:masterthemes/masterthemes-template-vim",
+    "homepage": "https://github.com/masterthemes/masterthemes-template-vim#readme",
+    "bugs": "https://github.com/masterthemes/masterthemes-template-vim/issues",
+    "author": "Brennan Fee <brennan@github.mailbots.org> (https://github.com/masterthemes)",
+    "keywords": [],
+    "devDependencies": {},
+    "dependencies": {},
+    "private": true,
+    "license": "MIT",
+    "scripts": {
+        "test": "echo 'Error: no tests specified' && exit 1"
+    }
+}
