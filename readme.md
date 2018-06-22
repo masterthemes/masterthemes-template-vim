@@ -1,6 +1,15 @@
 # masterthemes-template-vim
 
-A MasterThemes application template for Vim and Neovim.
+A MasterThemes application template for Vim\Neovim.
+
+## Overview
+
+See the [MasterThemes](https://github.com/masterthemes/masterthemes/) repository for more
+information.
+
+## Installation
+
+TBD
 
 ## License
 
