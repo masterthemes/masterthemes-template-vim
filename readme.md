@@ -1,6 +1,6 @@
 # masterthemes-template-vim
 
-A MasterThemes application template for Vim\Neovim.
+A MasterThemes application template for Vim and Neovim.
 
 ## Overview
 

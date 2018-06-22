@@ -1,0 +1,19 @@
+{
+    version: 0.1,
+    template: 'Vim',
+    author: 'Brennan Fee',
+    templateUrl: 'https://github.com/masterthemes/masterthemes-template-vim',
+    applicationUrl: 'https://www.vim.org',
+    support: {
+        backgroundColorsPerItem: true,
+        bold: true,
+        italic: true,
+        underline: true,
+    },
+    files: [
+        {
+            template: 'default.mustache',
+            extension: '.vim',
+        },
+    ],
+}
